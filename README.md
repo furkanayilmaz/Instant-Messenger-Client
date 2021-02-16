@@ -16,7 +16,7 @@ You can find that here (https://github.com/furkanayilmaz/Instant-Messenger)
 
 When connecting you will need IP address. Enter the IP address to the client side (ClientRunner.java).
 When entering the IP address make sure you enter it in thos format.
-("xx.xxx.x.x")
+("xxx.xxx.x.x")
 
 If you are expecting someone to connect to you then you don't need to run the client side.
 
