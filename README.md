@@ -34,3 +34,6 @@ Any improvements will be listed below here with included with descriptions
 
 
 ##### Fixed ending chat 
+
+##### Users won't be able edit the chat
+
