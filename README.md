@@ -22,8 +22,8 @@ If you are expecting someone to connect to you then you don't need to run the cl
 
 To order to close the connection or leave you will need to type 
 
-For Client Connection: SERVER - END
-For People Who is Connected: CLIENT - END
+For Client Connection: END
+For People Who is Connected: END
 
 
 ## Improvements & Fixes 
